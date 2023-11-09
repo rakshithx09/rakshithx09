@@ -1,4 +1,4 @@
-### Hi there 👋
+### i'm rakshith and this is my github
 
 <!--
 **rakshithx09/rakshithx09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
